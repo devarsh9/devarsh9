@@ -1,6 +1,5 @@
 ### Hi there, I'm [Devarsh Jadeja!](https://github.com/devarsh9) 👋
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devarsh9&label=Views&color=blue&style=plastic" alt="devarsh9" /> </p>
 
 <a href="https://www.linkedin.com/in/devarsh-jadeja-177b281a4/">
@@ -13,11 +12,9 @@
   <img align="left" alt="Devarsh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-I am a 3-year Computer Science and Engineering student with a zeal for learning new technologies.
-<!--
-**devarsh9/devarsh9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+I am a 3-year Computer Science and Engineering student with a zeal for learning new technologies.
 
 - 🔭 I love challenges.
 - 🌱 I’m currently learning ML and CP.
@@ -28,5 +25,5 @@ Here are some ideas to get you started:
 
 [![Linkedin: Devarsh Jadeja](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devarsh-jadeja-177b281a4/)](https://www.linkedin.com/in/devarsh-jadeja-177b281a4/)
 [![GitHub devarsh9](https://img.shields.io/github/followers/devarsh9?label=follow&style=social)](https://github.com/devarsh9) 
-
+<br>
 **Languages and Tools:**  
