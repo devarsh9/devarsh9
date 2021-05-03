@@ -22,6 +22,7 @@ I am a 3-year Computer Science and Engineering student with a zeal for learning 
 - 📫 How to reach me: [LinkedIn - @devarsh](https://www.linkedin.com/in/devarsh-jadeja-177b281a4)
 - ⚡ Fun fact:  I spend almost 3 hours listening songs everyday.
 
+<img src=" https://img.shields.io/github/followers/devarsh9?style=social"></img>
 
 <br>
 **Languages and Tools:**  
