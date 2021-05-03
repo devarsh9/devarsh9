@@ -29,7 +29,6 @@ I am a 3-year Computer Science and Engineering student with a zeal for learning 
 
 
 ## Stats
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/<>/?username=devarsh9" />
+[![Devarsh's github stats](https://github-readme-stats.vercel.app/api?username=devarsh9)](https://github.com/anuraghazra/github-readme-stats)
 
 # Show some ❤️ by starring some of the repositories!
