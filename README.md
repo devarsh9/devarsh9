@@ -20,8 +20,7 @@ I am a 3-year Computer Science and Engineering student with a zeal for learning 
 - 🔭 I love challenges.
 - 🌱 I’m currently learning ML,CP and Flutter.
 - 💬 Ask me about Flutter or any tech related stuff.
-- 📫 How to reach me: [LinkedIn - @devarsh](https://www.linkedin.com/in/devarsh-jadeja-177b281a4) , [Instagram-@devarsh09]("https://instagram.com/devarsh09/)
-- 😄 Pronouns: He/His
+- 📫 How to reach me: [LinkedIn - @devarsh](https://www.linkedin.com/in/devarsh-jadeja-177b281a4)
 - ⚡ Fun fact:  I spend almost 3 hours listening songs everyday.
 
 [![Linkedin: Devarsh Jadeja](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devarsh-jadeja-177b281a4/)](https://www.linkedin.com/in/devarsh-jadeja-177b281a4/)
