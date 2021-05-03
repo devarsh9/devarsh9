@@ -12,7 +12,8 @@
   <img align="left" alt="Devarsh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<br>
+<br/>
+<br/>
 
 I am a 3-year Computer Science and Engineering student with a zeal for learning new technologies.
 
