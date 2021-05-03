@@ -1,6 +1,5 @@
 ### Hi there, I'm [Devarsh Jadeja!](https://github.com/devarsh9) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devarsh9&label=Views&color=blue&style=plastic" alt="devarsh9" /> </p>
 
 <a href="https://www.linkedin.com/in/devarsh-jadeja-177b281a4/">
   <img align="left" alt="Devarsh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -28,11 +27,7 @@ I am a 3-year Computer Science and Engineering student with a zeal for learning 
 <br>
 **Languages and Tools:**  
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>    
-<code><img height="25" src="https://user-images.githubusercontent.com/83124657/116886532-d2d82180-ac46-11eb-9484-53732090fe21.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
 
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=devarsh9&&show_icons=true&title_color=ffffff&icon_color=dd4629&text_color=daf7dc&bg_color=191919">
