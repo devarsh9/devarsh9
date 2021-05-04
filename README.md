@@ -10,6 +10,7 @@
 <a href="https://instagram.com/devarsh09/">
   <img align="left" alt="Devarsh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+![](https://komarev.com/ghpvc/?username=your-github-username)
 
 <br/>
 <br/>
