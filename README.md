@@ -14,7 +14,7 @@
 <br/>
 <br/>
 
-I am a 3-year Computer Science and Engineering student with a zeal for learning new technologies.
+I am a 3<sup>rd</sup> year Computer Science and Engineering student with a zeal for learning new technologies.
 
 - 🔭 I love challenges.
 - 🌱 I’m currently learning ML,CP and Flutter.
