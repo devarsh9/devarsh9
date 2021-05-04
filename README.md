@@ -21,7 +21,7 @@ I am a 3-year Computer Science and Engineering student with a zeal for learning 
 - 💬 Ask me about Flutter or any tech related stuff.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/devarsh-jadeja-177b281a4"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href=""><img alt="Instagram" src="https://img.shields.io/badge/devarsh09-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 - 5 ⭐ at Problem Solving on <a href ="https://www.hackerrank.com/jadejadevarsh9"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
-- ⚡ Fun fact:  I spend almost 3 hours listening songs everyday.
+- ⚡ Fun fact:  Stafford gambit is my favorite opening in Chess. :chess_pawn:
 
 
 
