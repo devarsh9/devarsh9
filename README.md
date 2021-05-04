@@ -20,7 +20,7 @@ I am a 3-year Computer Science and Engineering student with a zeal for learning 
 - 🌱 I’m currently learning ML,CP and Flutter.
 - 💬 Ask me about Flutter or any tech related stuff.
 - 📫 How to reach me: [LinkedIn - @devarsh](https://www.linkedin.com/in/devarsh-jadeja-177b281a4)
-- 5 ⭐ at Problem Solving on 	<img alt="HackerRank" src="https://www.hackerrank.com/jadejadevarsh9?style=for-the-badge&logo=HackerRank&logoColor=white" height=20/> 
+- 5 ⭐ at Problem Solving on <a href ="https://www.hackerrank.com/jadejadevarsh9"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height=20/></a>
 - ⚡ Fun fact:  I spend almost 3 hours listening songs everyday.
 
 
@@ -35,7 +35,7 @@ I am a 3-year Computer Science and Engineering student with a zeal for learning 
 <table border=0>
   <tr>
     <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=devarsh9&show_icons=true&theme=radical" /></td>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devarsh9&theme=radical" /></td>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devarsh9&theme=radical&hide_langs_below=0.5" /></td>
   </tr>
 </table>
 
