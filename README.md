@@ -1,7 +1,7 @@
 # Hi there, I'm [Devarsh Jadeja!](https://github.com/devarsh9) <img src="https://github.com/devarsh9/devarsh9/blob/main/Resources/Hi.gif" alt="HI" width="30px"/>
 <hr/>
 <p>
-  <h3 align="left">Conect with me :</h3>
+  <h3 align="left">Connect with me :</h3>
   <a href="https://www.linkedin.com/in/devarsh-jadeja-177b281a4/">
     <img align="left" alt="Devarsh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
@@ -35,6 +35,8 @@ I am a 3<sup>rd</sup> year Computer Science and Engineering student with a zeal 
 
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/> <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?&style=for-the-badge&logo=firebase"/> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## Stats
 <table border=0>
