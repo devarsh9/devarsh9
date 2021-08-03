@@ -1,6 +1,5 @@
 ### Hi there, I'm [Devarsh Jadeja!](https://github.com/devarsh9) <img src="https://github.com/devarsh9/devarsh9/blob/main/Resources/Hi.gif" alt="HI" width="30px"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝐇𝐞𝐥𝐥𝐨+𝐭𝐡𝐞𝐫𝐞+,+𝐟𝐞𝐥𝐥𝐨𝐰+<𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!;I+am+good+How+are+you)](https://git.io/typing-svg)
 
 
 <a href="https://www.linkedin.com/in/devarsh-jadeja-177b281a4/">
@@ -12,11 +11,12 @@
 <a href="https://www.instagram.com/devarsh09/">
   <img align="left" alt="Devarsh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<br/>
 <img src="https://komarev.com/ghpvc/?username=devarsh9"/>
 
 <br/>
 <br/>
-
+<img align="right" src="https://github.com/devarsh9/devarsh9/blob/main/Resources/code.gif" alt="Image" width="400px"/>
 I am a 3<sup>rd</sup> year Computer Science and Engineering student with a zeal for learning new technologies.
 
 - 🔭 I love challenges.
