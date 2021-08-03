@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm ${`[Devarsh Jadeja!](https://github.com/devarsh9)`} <img src="https://github.com/devarsh9/devarsh9/blob/main/Resources/Hi.gif" alt="HI" width="30px"/></h1>
+##Hi there, I'm [Devarsh Jadeja!](https://github.com/devarsh9) <img src="https://github.com/devarsh9/devarsh9/blob/main/Resources/Hi.gif" alt="HI" width="30px"/>
 <br/>
 <br/>
-<h3 align="left">Conect with me :</h3>
+<h3 align="left">Conect with me :
 <a href="https://www.linkedin.com/in/devarsh-jadeja-177b281a4/">
   <img align="left" alt="Devarsh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -11,6 +11,7 @@
 <a href="https://www.instagram.com/devarsh09/">
   <img align="left" alt="Devarsh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+ </h3>
 <br/>
 <br/>
 <img align="left" src="https://komarev.com/ghpvc/?username=devarsh9"/>
