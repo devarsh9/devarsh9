@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm [Devarsh Jadeja!](https://github.com/devarsh9) <img src="https://github.com/devarsh9/devarsh9/blob/main/Resources/Hi.gif" alt="HI" width="30px"/></h1>
+<h1 align="center">Hi there, I'm ${`[Devarsh Jadeja!](https://github.com/devarsh9)`} <img src="https://github.com/devarsh9/devarsh9/blob/main/Resources/Hi.gif" alt="HI" width="30px"/></h1>
 <br/>
 <br/>
-<h3 align="left">Conect with me :
+<h3 align="left">Conect with me :</h3>
 <a href="https://www.linkedin.com/in/devarsh-jadeja-177b281a4/">
   <img align="left" alt="Devarsh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
