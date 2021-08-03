@@ -1,4 +1,4 @@
-## Hi there, I'm [Devarsh Jadeja!](https://github.com/devarsh9) <img src="https://github.com/devarsh9/devarsh9/blob/main/Resources/Hi.gif" alt="HI" width="30px"/>
+### Hi there, I'm [Devarsh Jadeja!](https://github.com/devarsh9) <img src="https://github.com/devarsh9/devarsh9/blob/main/Resources/Hi.gif" alt="HI" width="30px"/>
 <hr/>
 <p>
   <h3 align="left">Conect with me :</h3>
