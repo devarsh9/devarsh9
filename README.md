@@ -1,6 +1,6 @@
 ### Hi there, I'm [Devarsh Jadeja!](https://github.com/devarsh9) 👋
 
-###[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝐇𝐞𝐥𝐥𝐨+𝐭𝐡𝐞𝐫𝐞+,+𝐟𝐞𝐥𝐥𝐨𝐰+<𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!;I+am+good+How+are+you)](https://git.io/typing-svg)
+<p aligm="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝐇𝐞𝐥𝐥𝐨+𝐭𝐡𝐞𝐫𝐞+,+𝐟𝐞𝐥𝐥𝐨𝐰+<𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!;I+am+good+How+are+you)](https://git.io/typing-svg)</p>
 
 
 <a href="https://www.linkedin.com/in/devarsh-jadeja-177b281a4/">
