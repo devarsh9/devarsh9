@@ -19,7 +19,7 @@
 <br/>
 <br/>
 <img align="right" src="https://github.com/devarsh9/devarsh9/blob/main/Resources/code.gif" alt="Image" width="400px"/>
-I am a 3<sup>rd</sup> year Computer Science and Engineering student with a zeal for learning new technologies.
+I am a 4<sup>th</sup> year Computer Science and Engineering student with a zeal for learning new technologies.
 
 - 🔭 I love challenges.
 - 🌱 I’m currently learning ML,CP and Flutter.
